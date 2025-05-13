@@ -1,0 +1,1 @@
+# Add shared/global variables here if needed
